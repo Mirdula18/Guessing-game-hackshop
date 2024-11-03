@@ -70,6 +70,7 @@ def guess_computer(random_num,tries):
             print("Invalid input. Type high or low:")                              
 
 def guess_game():
+    print(open("rules.md").read())
     game_type = get_validated_input("Choose game type(User/Computer/type 'exit' to quit):",
           expected_type = str,allowed_values = ("user","computer"))
     tries = get_validated_input("Enter the number of tries(or type'exit' to quit):")
