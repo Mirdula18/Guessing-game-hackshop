@@ -1,4 +1,4 @@
-           **WELCOME TO THE GUESSING GAME**                         
+          ** WELCOME TO THE GUESSING GAME **                        
                                         * **RULES** *
    --> First choose the game type (Either USER or the COMPUTER makes the guesses) or type 'exit' if you want to exit the game.
    --> Then enter the number of attempts you wish to try.
